@@ -14,8 +14,7 @@
 -  Track daily, weekly, and monthly screen time
 -  Create or join groups to compare statistics
 -  View leaderboards and group stats
-- 
----
+ --
 
 ##  Non-Functional Requirements
 
