@@ -13,7 +13,6 @@
 - Track daily, weekly, and monthly streaks
 - Create or join groups to compare streaks and habit goals
 - View leaderboards and group streaks
-- 
 ---
 
 ##  Non-Functional Requirements
