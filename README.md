@@ -10,14 +10,14 @@
 
 ##  Functional Requirements
 
-- 📊 Track daily, weekly, and monthly screen time
-- 👥 Create or join groups to compare statistics
-- 🏆 View leaderboards and group stats
+- Track daily, weekly, and monthly streaks
+- Create or join groups to compare streaks and habit goals
+- View leaderboards and group streaks
 - 
 ---
 
 ##  Non-Functional Requirements
 
-- 💻 Responsive and intuitive user interface
-- 🔒 Data privacy and security for all users
-- 📈 Scalable to support many users and groups
+- Responsive and intuitive user interface
+- Data privacy and security for all users
+- Scalable to support many users and groups
