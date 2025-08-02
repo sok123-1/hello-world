@@ -20,3 +20,8 @@
 - Responsive and intuitive user interface
 - Data privacy and security for all users
 - Scalable to support many users and groups
+
+## Basic Wireframe Sketches
+
+
+![computing wireframe-min](https://github.com/user-attachments/assets/38c35426-8583-4b02-af86-30e9482c4a15)
