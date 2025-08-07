@@ -30,4 +30,15 @@
 
 ![image-min](https://github.com/user-attachments/assets/9b32f4b0-1d5f-4478-ad4c-8c15764703ab)
 
+## Figma Wireframe Sketches
+
+<img width="616" height="763" alt="image" src="https://github.com/user-attachments/assets/13a7a708-636e-4cf1-8973-bde0abd75eeb" />
+
+<img width="625" height="740" alt="image" src="https://github.com/user-attachments/assets/fd4ad8b3-9b76-4949-9306-4a4e328dfcc8" />
+
+<img width="721" height="827" alt="image" src="https://github.com/user-attachments/assets/0f3c8513-456c-4e91-bc4d-cb32d2c4f4d1" />
+
+
+
+
 
