@@ -5,7 +5,7 @@
 
 ##  What is Habitly?
 
-**Habitly** App where you can create habit lists, set goals and join leaderboards with your friends to compete to see who can keep their habit streak for the longest.
+**Habitly** is an App where you can create habit lists, set goals and join leaderboards with your friends to compete to see who can keep their habit streak for the longest.
 ---
 
 ##  Functional Requirements
