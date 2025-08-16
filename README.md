@@ -38,6 +38,8 @@
 
 <img width="721" height="827" alt="image" src="https://github.com/user-attachments/assets/0f3c8513-456c-4e91-bc4d-cb32d2c4f4d1" />
 
+## Algorithm test cases
+
 
 
 
