@@ -62,6 +62,7 @@ Expected Results: System shows habit error message "Habit name required" and doe
 **Test case 002**
 
 Test case id: TC002
+
 Precondition: User is logged in and on "Add habit" page
 
 Test steps
