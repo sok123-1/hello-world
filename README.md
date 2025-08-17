@@ -40,6 +40,10 @@
 
 ## Algorithm test cases
 
+<img width="503" height="853" alt="image" src="https://github.com/user-attachments/assets/adf9d5a9-528d-4528-83ac-cd10cc455cdd" />
+
+
+
 
 
 
