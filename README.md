@@ -23,12 +23,13 @@
 
 ## Basic Wireframe Sketches
 
-
 ![computing wireframe-min](https://github.com/user-attachments/assets/38c35426-8583-4b02-af86-30e9482c4a15)\
 
 <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/92e9fa69-2505-4ea3-9e99-cbf8a0fb3ee6" />
 
 ![image-min](https://github.com/user-attachments/assets/9b32f4b0-1d5f-4478-ad4c-8c15764703ab)
+
+---
 
 ## Figma Wireframe Sketches
 
@@ -38,9 +39,39 @@
 
 <img width="721" height="827" alt="image" src="https://github.com/user-attachments/assets/0f3c8513-456c-4e91-bc4d-cb32d2c4f4d1" />
 
+---
+
 ## Algorithm test cases
 
 <img width="503" height="853" alt="image" src="https://github.com/user-attachments/assets/adf9d5a9-528d-4528-83ac-cd10cc455cdd" />
+
+**Test case 001**
+
+Test case id: TC001
+
+Precondition: User is logged in and on "Add habit" page
+
+Test steps
+1. Leave habit name blank
+2. Select frequency = Weekly
+3. Select start date =  Valid start date
+4. Save
+
+Expected Results: System shows habit error message "Habit name required" and does not save the habit, redirecting user to add habit screen.
+
+**Test case 002**
+
+Test case id: TC002
+Precondition: User is logged in and on "Add habit" page
+
+Test steps
+1. Enter habit name = "Drink water"
+2. Select frequency = Daily
+3. Select start date = Valid start date
+4. Click save
+
+Expected results : System saves habit successfully and displays "Habit successfully added" and redirects user to add habit screen.
+
 
 
 
