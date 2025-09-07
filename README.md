@@ -73,6 +73,13 @@ Test steps
 
 Expected results : System saves habit successfully and displays "Habit successfully added" and redirects user to add habit screen.
 
+**Week 7**
+
+- Using figmas generated code for my website and also using the inbuilt copilot in vs code to insert the code I created my pages.
+
+
+
+
 
 
 
