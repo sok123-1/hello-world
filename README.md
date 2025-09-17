@@ -78,7 +78,13 @@ Expected results : System saves habit successfully and displays "Habit successfu
 - Using figmas generated code for my website and also using the inbuilt copilot in vs code to insert the code I created my pages.
 
 
+**Week 8**
 
+- Continues importing code from figma into my website using copilot's ai.
+
+**Week 9**
+
+- Added an sql database so habits don't disappear once you leave the habits page.
 
 
 
