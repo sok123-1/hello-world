@@ -86,6 +86,12 @@ Expected results : System saves habit successfully and displays "Habit successfu
 
 - Added an sql database so habits don't disappear once you leave the habits page.
 
+**Lighthouse Test**
+
+![alt text](image.png)
+
+
+
 
 
 
