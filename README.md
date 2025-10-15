@@ -7,6 +7,7 @@ To sign in create an account or use the premade account -
 Email - mrclark@gmail.com
 Password - Mrclark
 The sign in page can be buggy at times, the demo page can break.
+Could not get the messaging and club function working for the social aspect part of the task.
 
 
 ## Some code from this project has been outsourced and the links for the original projects have been provided below - 
