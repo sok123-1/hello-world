@@ -14,6 +14,8 @@ https://github.com/Hebert-code/habitrack?tab=readme-ov-file
 https://github.com/LuuNgocLan/flutter-habit-tracker?
 https://github.com/topics/habit-tracker?
 
+Test it on google chrome for better formatting
+
 
 ##  What is Habitly?
 
