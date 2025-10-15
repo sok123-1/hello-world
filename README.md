@@ -2,6 +2,18 @@
 # 📱Habitly
 
 ---
+## Notes
+To sign in create an account or use the premade account - 
+Email - mrclark@gmail.com
+Password - Mrclark
+
+Some code from this project has been outsourced and the links for the original projects have been provided below - 
+
+https://www.figma.com/make/GbVcdsC9BKSWZlj3odjOgw/Habit-Tracking-App?node-id=0-1&p=f&t=AeEPpwhu9AHEECch-0
+https://github.com/Hebert-code/habitrack?tab=readme-ov-file
+https://github.com/LuuNgocLan/flutter-habit-tracker?
+https://github.com/topics/habit-tracker?
+
 
 ##  What is Habitly?
 
@@ -80,7 +92,7 @@ Expected results : System saves habit successfully and displays "Habit successfu
 
 **Week 8**
 
-- Continues importing code from figma into my website using copilot's ai.
+- 
 
 **Week 9**
 
@@ -88,7 +100,20 @@ Expected results : System saves habit successfully and displays "Habit successfu
 
 **Lighthouse Test**
 
-![alt text](image.png)
+Sign in Page
+
+<img width="1900" height="988" alt="image" src="https://github.com/user-attachments/assets/38de3305-7dd0-4f5a-9950-79340e01d28c" />
+
+Home Page
+
+<img width="1908" height="983" alt="image" src="https://github.com/user-attachments/assets/7ea0cf4f-6ddc-4366-b410-5829d07b94e7" />
+
+Stats Page
+
+<img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/caf5264f-7731-4b19-b21e-4663d394e4de" />
+
+
+
 
 
 
