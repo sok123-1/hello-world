@@ -6,16 +6,20 @@
 To sign in create an account or use the premade account - 
 Email - mrclark@gmail.com
 Password - Mrclark
+The sign in page can be buggy at times, the demo page can break.
 
 
-Some code from this project has been outsourced and the links for the original projects have been provided below - 
+## Some code from this project has been outsourced and the links for the original projects have been provided below - 
 
 https://www.figma.com/make/GbVcdsC9BKSWZlj3odjOgw/Habit-Tracking-App?node-id=0-1&p=f&t=AeEPpwhu9AHEECch-0
 https://github.com/Hebert-code/habitrack?tab=readme-ov-file
 https://github.com/LuuNgocLan/flutter-habit-tracker?
 https://github.com/topics/habit-tracker?
+Inbuilt co pilot in vs code 
 
 Test it on google chrome for better formatting
+
+## Instrucions for the users
 
 
 ##  What is Habitly?
@@ -91,15 +95,32 @@ Expected results : System saves habit successfully and displays "Habit successfu
 **Week 7**
 
 - Using figmas generated code for my website and also using the inbuilt copilot in vs code to insert the code I created my pages.
+- Added a sign in page, which was there for aesthetic purposes however was not functional just yet.
+- Added a habits tracker, you can add and remove habits however it was not fully functional and convenient for the user
 
 
 **Week 8**
 
-- 
+- Worked on the colour scheme initially wanted a blue and white colour scheme but decided to go for a teal colour palette with brown coloured highlights.
+- Tried to get the sign in page functional however it did not work
+- Worked on the habit list made sure you could edit habits and the streak counter is accurate
 
 **Week 9**
 
 - Added an sql database so habits don't disappear once you leave the habits page.
+- Worked on the stats page, and diary entries which is still a work in progress
+
+**Week 10**
+
+- Made sure that the interactivity worked between pages and continued working on diary entries, added a filter for different types of diary entries
+- Continued working on the stats page, and added habit groups which are filters for your different habit groups which you can easily filter through
+- Used copilot's built in software to help me fix a bug I had with all the animations in my app
+
+  **Week 1 T4**
+
+- Focused on changing the layout a bit to make it more user friendly
+- finally fixed the sign in page so that everyone has their own private account
+- Final touch ups
 
 **Lighthouse Test**
 
