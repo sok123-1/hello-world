@@ -21,6 +21,11 @@ Test it on google chrome for better formatting
 
 ## Instrucions for the users
 
+Extract the files from the other linked github repository
+Set up flask environment in Vs code
+Ensure you have all neccessary extensions installed 
+Run python main.py in terminal
+Follow the link to the website
 
 ##  What is Habitly?
 
