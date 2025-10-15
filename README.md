@@ -5,7 +5,8 @@
 ## Notes
 To sign in create an account or use the premade account - 
 Email - mrclark@gmail.com
-Password - MrclarkshouldgivemeanA
+Password - Mrclark
+
 
 Some code from this project has been outsourced and the links for the original projects have been provided below - 
 
